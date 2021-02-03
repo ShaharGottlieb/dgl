@@ -1,5 +1,5 @@
 {
-    "r5.16xlarge": {
+    "c5.9xlarge": {
         "tests": [
             "api",
             "kernel"
