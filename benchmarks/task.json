@@ -1,8 +1,7 @@
 {
     "c5.9xlarge": {
         "tests": [
-            "api",
-            "kernel"
+            "model"
         ],
         "env": {
             "DEVICE": "cpu"
@@ -10,8 +9,7 @@
     },
     "g4dn.8xlarge": {
         "tests": [
-            "api",
-            "kernel"
+            "model"
         ],
         "env": {
             "DEVICE": "gpu"
